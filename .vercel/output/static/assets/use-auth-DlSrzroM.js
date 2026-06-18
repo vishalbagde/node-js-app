@@ -1,0 +1,1 @@
+import{c as a}from"./graduation-cap-Cnfu0ig6.js";import{s as t}from"./index-P88HA8U2.js";const o=[["path",{d:"m16 17 5-5-5-5",key:"1bji2h"}],["path",{d:"M21 12H9",key:"dn1m92"}],["path",{d:"M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4",key:"1uf3rs"}]],i=a("log-out",o);async function c(){await t.auth.signOut(),window.location.href="/auth"}export{i as L,c as s};
